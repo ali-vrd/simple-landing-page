@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "Vazir-FD";
+  src: url("./font/Vazir-FD.woff");
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Vazir-FD";
+}
+
+.all-of-things {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  font-family: inherit;
+  flex-wrap: wrap;
+}
+
+.first-div-from-us {
+  margin-top: 7rem;
+  margin-left: 8rem;
+}
+
+.fun-img {
+  width: 146.4px;
+  height: 19.1px;
+}
+
+.second-div-from-us {
+  margin-right: 3rem;
+}
+
+.caption-us {
+  text-align: right;
+  color: #211152;
+  font-size: 2rem;
+}
+
+.caption-us2 {
+  text-align: right;
+  color: #02a98e;
+  font-size: 2rem;
+}
+
+.third-div-from-us {
+  margin-right: 3rem;
+}
+
+.sub-caption {
+  font-size: 15px;
+  font-style: normal;
+  text-align: right;
+  color: #7060a8;
+}
+
+.p-from-fourth-div {
+  width: 100px;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  border-radius: 32px;
+  font-size: 18px;
+  text-align: right;
+  color: #ff7d6b;
+  background-color: #fff5f4;
+  margin-left: 4rem;
+}
+
+.all-of-items {
+  margin: 106px 41px 28.9px 73.6px;
+}
+
+.Raw {
+  display: flex;
+  column-gap: 5rem;
+  flex-wrap: wrap;
+}
+
+.Box {
+  display: flex;
+  column-gap: 2rem;
+}
+
+h1 {
+  text-align: right;
+  font-size: 18px;
+  color: #211152;
+}
+
+.caption {
+  text-align: right;
+  font-size: 15px;
+  color: #8a8a8a;
+}
+
+img {
+  width: 35px;
+  height: 34.5px;
+  padding: 1rem;
+  background-color: #eeecff;
+  border-radius: 50%;
+}
+
+.img-1 {
+  background-color: #eeecff;
+}
+
+.img-2 {
+  background-color: #eefdfe;
+}
+
+.img-3 {
+  background-color: #f0fffc;
+}
+
+.img-4 {
+  background-color: #fff0f4;
+}
+
+.img-5 {
+  background-color: #fff9f0;
+}
+
+.img-6 {
+  background-color: #fef4f2;
+}
